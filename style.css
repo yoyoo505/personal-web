@@ -174,7 +174,7 @@ span{
     position: relative;
 }
 .typing-text span::before{
-    content: "software Developer";
+    content: "Bot WhatsApp";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -195,16 +195,16 @@ span{
 }
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Bot WhatsApp";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Student";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "painter";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Gamer";
     }
     81%, 100%{
         content: "Script Writer";
